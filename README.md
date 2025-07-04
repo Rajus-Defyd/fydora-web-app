@@ -1,7 +1,7 @@
 
-# fydora-web-app – Frontend (Next.js)
+# fydora-web-app 
 
-A responsive and modern **doctor-side dashboard** of a healthcare platform, built using **Next.js (App Router)** and **Tailwind CSS**. This frontend application allows doctors to manage their appointments, view patient details, update their profiles, and more.
+A responsive **doctor-side dashboard** of a healthcare platform, built using **Next.js (App Router)** and **Tailwind CSS**. This frontend application allows doctors to manage their appointments, view patient details, update their profiles, and more.
 
 ---
 
