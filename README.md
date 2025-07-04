@@ -16,12 +16,12 @@ This project is focused on building the **frontend only** of a doctor-specific h
 
 | Layer         | Technology              |
 |---------------|--------------------------|
-| Framework     | [Next.js (App Router)](https://nextjs.org/) |
-| Styling       | [Tailwind CSS](https://tailwindcss.com/) |
-| UI Components | Custom React Components |
-| Icons         | [Lucide Icons](https://lucide.dev/)  |
-| Deployment    | [Vercel](https://vercel.com/) |
-
+| Framework     | Next.js (App Router)     |
+| Styling       | Tailwind CSS]            |
+| UI Components | Custom React Components  |
+| Icons         | Lucide Icons             |
+| Deployment    | Vercel                   |  
+  
 ---
 
 ##  Folder Structure
