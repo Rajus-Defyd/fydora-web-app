@@ -83,16 +83,6 @@ This project is focused on building the **frontend only** of a doctor-specific h
 
 ---
 
-##  Styling & Responsiveness
-
-- Built with **Tailwind CSS**
-- Fully responsive layout (mobile-first)
-- Accessible UI with proper HTML semantics
-- Consistent theming with custom color palette
-- Smooth transitions and animations
-
----
-
 ##  Theme Toggle
 
 Dark mode is enabled using Tailwind’s `dark:` classes.  
